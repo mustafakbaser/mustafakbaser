@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mustafa,
 #### I am a Software Engineer
-![I am a Software Engineer]
 
 A passionate engineer who loves all creatures, nature, books, and all kinds of coffee.
 
