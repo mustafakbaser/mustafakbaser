@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakbaser&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakbaser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafakbaser" alt="mustafakbaser" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mustafakbaser" target="blank"><img src="https://img.shields.io/twitter/follow/mustafakbaser?logo=twitter&style=for-the-badge" alt="mustafakbaser" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,3 +18,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mustafakbaser"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mustafakbaser" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakbaser&show_icons=true&locale=en&layout=compact" alt="mustafakbaser" /></p>
