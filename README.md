@@ -1,34 +1,49 @@
-<h1 align="center">Hi there 👋, I'm Mustafa</h1>
-<h3 align="center">I am a passionate Software Developer</h3>
+# Hi there, I'm Mustafa Kursad, 👋 
 
-<p align="center"> <a href="https://twitter.com/mustafakbaser" target="blank"><img
-            src="https://img.shields.io/twitter/follow/mustafakbaser?logo=twitter&style=for-the-badge"
-            alt="mustafakbaser" /></a> </p>
+[![Website](https://img.shields.io/website?label=mustafabaser.net&style=for-the-badge&url=https%3A%2F%2Fmustafabaser.net)](https://mustafabaser.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mustafakbaser?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmustafakbaser&screen_name=mustafakbaser)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/mustafakbaser" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mustafakbaser" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mustafabaser" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="mustafabaser" height="30" width="40" /></a>
-    <a href="https://instagram.com/mustafakbaser" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mustafakbaser" height="30" width="40" /></a>
-    <a href="https://medium.com/@mustafakbaser" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@mustafakbaser" height="30" width="40" /></a>
-</p>
+## I'm a Software Engineer, Back End Developer.
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mustafakbaser">
-        <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="140"
-            alt="mustafakbaser" /> </a>
-</p>
-<br>
-<p align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakbaser&show_icons=true&locale=en&layout=compact"
-        alt="mustafakbaser" />
-</p>
+- 🔭 Check out my [Blog][website] , and [Medium][medium]!
+
+### Connect with me:
+
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg)](https://mustafabaser.net#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg)](https://mustafabaser.net#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg)](https://twitter.com/mustafakbaser#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/mustafakbaser#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg)](https://linkedin.com/in/mustafabaser#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/mustafabaser#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg)](https://instagram.com/mustafakbaser#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/mustafakbaser#gh-dark-mode-only)
+
+---
+
+### 📕 Latest Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+- [SOAP ve REST API Nedir ve Aralarındaki Farklar](https://mustafabaser.net/soap-rest-api-nedir)
+- [SQL ve NoSQL Arasındaki Farklar](https://mustafabaser.net/sql-ve-nosql-arasindaki-farklar)
+- [SQL Veri Tabanı Nedir](https://mustafabaser.net/sql-database-nedir)
+- [Cornell Metodu ile Etkili Not Tutmak](https://mustafabaser.net/cornell-metodu-nedir)
+- [S-O-L-I-D Prensipleri Nedir?](https://mustafabaser.net/solid-prensipleri)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://mustafabaser.net)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Mustafakbaser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakbaser&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
+
+[website]: https://mustafabaser.net
+[twitter]: https://twitter.com/mustafakbaser
+[instagram]: https://instagram.com/mustafakbaser
+[linkedin]: https://linkedin.com/in/mustafabaser
+[medium]: https://mustafakbaser.medium.com
