@@ -26,6 +26,7 @@
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [12 Factor App Metodolojisi](https://mustafabaser.net/twelve-factor-app-nedir)
 - [SOAP ve REST API Nedir ve Aralarındaki Farklar](https://mustafabaser.net/soap-rest-api-nedir)
 - [SQL ve NoSQL Arasındaki Farklar](https://mustafabaser.net/sql-ve-nosql-arasindaki-farklar)
 - [SQL Veri Tabanı Nedir](https://mustafabaser.net/sql-database-nedir)
