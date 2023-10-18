@@ -18,19 +18,17 @@
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg)](https://linkedin.com/in/mustafabaser#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/mustafabaser#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-light.svg)](https://instagram.com/mustafakbaser#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg)](https://instagram.com/mustafakbaser#gh-dark-mode-only)
 
 ---
 
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Factor App Metodolojisi](https://mustafabaser.net/twelve-factor-app-nedir)
+- [Başarılı Yazılım Geliştirmenin Anahtarı: Agile Metodoloji](https://mustafabaser.net/agile-metodoloji)
+- [Mülakatlarda Parlayın: S.T.A.R. Tekniği ile Etkili Anlatım](https://mustafabaser.net/star-teknigi-ile-etkili-anlatim)
 - [SOAP ve REST API Nedir ve Aralarındaki Farklar](https://mustafabaser.net/soap-rest-api-nedir)
 - [SQL ve NoSQL Arasındaki Farklar](https://mustafabaser.net/sql-ve-nosql-arasindaki-farklar)
 - [SQL Veri Tabanı Nedir](https://mustafabaser.net/sql-database-nedir)
-- [Cornell Metodu ile Etkili Not Tutmak](https://mustafabaser.net/cornell-metodu-nedir)
 - [S-O-L-I-D Prensipleri Nedir?](https://mustafabaser.net/solid-prensipleri)
 <!-- BLOG-POST-LIST:END -->
 
@@ -45,6 +43,5 @@
 
 [website]: https://mustafabaser.net
 [twitter]: https://twitter.com/mustafakbaser
-[instagram]: https://instagram.com/mustafakbaser
 [linkedin]: https://linkedin.com/in/mustafabaser
 [medium]: https://mustafakbaser.medium.com
