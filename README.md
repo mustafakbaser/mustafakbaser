@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Retrofit Rehberi: Avantajları ve Android’de Retrofit ile RESTful API Etkileşimi](https://mustafabaser.net/retrofit-nedir-temel-bilgiler-api-etkilesimi)
 - [Başarılı Yazılım Geliştirmenin Anahtarı: Agile Metodoloji](https://mustafabaser.net/agile-metodoloji)
 - [Mülakatlarda Parlayın: S.T.A.R. Tekniği ile Etkili Anlatım](https://mustafabaser.net/star-teknigi-ile-etkili-anlatim)
 - [SOAP ve REST API Nedir ve Aralarındaki Farklar](https://mustafabaser.net/soap-rest-api-nedir)
