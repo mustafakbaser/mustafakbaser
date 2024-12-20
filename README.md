@@ -1,48 +1,23 @@
-# Hi there, I'm Mustafa Kursad, 👋 
+# 👋 Hi there!
 
-[![Website](https://img.shields.io/website?label=mustafabaser.net&style=for-the-badge&url=https%3A%2F%2Fmustafabaser.net)](https://mustafabaser.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mustafakbaser?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmustafakbaser&screen_name=mustafakbaser)
+I'm **Mustafa Kürşad Başer**, a passionate **Software Engineer** and **Back-end Developer** 🏆
 
-## I'm a Software Engineer, Back End Developer.
+🚀 *3+ years of experience crafting resilient and scalable backend solutions!*  
 
-- 🔭 Check out my [Blog][website] , and [Medium][medium]!
+🔭 Check out my [Blog](https://mustafabaser.net/) and [Medium](https://mustafakbaser.medium.com/)!
 
-### Connect with me:
+## 🌐 Get in Touch
 
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg)](https://mustafabaser.net#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg)](https://mustafabaser.net#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-light.svg)](https://twitter.com/mustafakbaser#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg)](https://twitter.com/mustafakbaser#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg)](https://linkedin.com/in/mustafabaser#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg)](https://linkedin.com/in/mustafabaser#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafabaser) 
+[![X (Twitter)](https://img.shields.io/badge/X_|_Twitter-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mustafakbaser) 
+[![My Blog](https://img.shields.io/badge/My_Blog-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustafabaser.net) 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://mustafakbaser.medium.com/) 
 
----
+> *"A great backend is like a reliable engine – you don't always see it, but you know when it's running smoothly."* 🛠️
 
-### 📕 Latest Blog Posts 
+✨ *Interested in collaborating? Let's create something amazing together!* 🔥
 
-<!-- BLOG-POST-LIST:START -->
-- [Retrofit Rehberi: Avantajları ve Android’de Retrofit ile RESTful API Etkileşimi](https://mustafabaser.net/retrofit-nedir-temel-bilgiler-api-etkilesimi)
-- [Başarılı Yazılım Geliştirmenin Anahtarı: Agile Metodoloji](https://mustafabaser.net/agile-metodoloji)
-- [Mülakatlarda Parlayın: S.T.A.R. Tekniği ile Etkili Anlatım](https://mustafabaser.net/star-teknigi-ile-etkili-anlatim)
-- [SOAP ve REST API Nedir ve Aralarındaki Farklar](https://mustafabaser.net/soap-rest-api-nedir)
-- [SQL ve NoSQL Arasındaki Farklar](https://mustafabaser.net/sql-ve-nosql-arasindaki-farklar)
-- [SQL Veri Tabanı Nedir](https://mustafabaser.net/sql-database-nedir)
-- [S-O-L-I-D Prensipleri Nedir?](https://mustafabaser.net/solid-prensipleri)
-<!-- BLOG-POST-LIST:END -->
+##
+☕ **To support my work:**  
 
-➡️ [more blog posts...](https://mustafabaser.net)
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Mustafakbaser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mustafakbaser&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
-[website]: https://mustafabaser.net
-[twitter]: https://twitter.com/mustafakbaser
-[linkedin]: https://linkedin.com/in/mustafabaser
-[medium]: https://mustafakbaser.medium.com
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mustafakbaser)
