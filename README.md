@@ -2,7 +2,7 @@
 
 I'm **Mustafa Kürşad Başer**, a passionate **Software Engineer** and **Back-end Developer** 🏆
 
-🚀 *3+ years of experience crafting resilient and scalable backend solutions!*  
+🚀 *4 years of experience crafting resilient and scalable backend solutions!*  
 
 🔭 Check out my [Blog](https://mustafabaser.net/) and [Medium](https://mustafakbaser.medium.com/)!
 
