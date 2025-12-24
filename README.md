@@ -1,116 +1,117 @@
-# 👋 Hey, I'm Mustafa Kürşad Başer
+# 👋 Hi, I'm Mustafa Kürşad Başer
 
-### 💻 Software Engineer | Back-End Developer | Crafting Clean, Scalable Systems
+### 💻 Senior Full Stack Developer | Building Scalable, Maintainable Systems End-to-End
 
-🚀 **4+ years** of experience designing robust and scalable back-end architectures that just work.  
-🧠 Passionate about solving complex problems, building resilient APIs, and writing code that's built to last.  
-🛠️ Tech enthusiast, performance hunter, and backend perfectionist.
+🚀 **5+ years** of hands-on experience delivering production-grade applications across **backend, frontend, and infrastructure**.  
+🧠 Strong focus on system design, clean code, and long-term maintainability.  
+🛠️ Comfortable owning a product from database to UI, from architecture to deployment.
 
-> *"A great backend is like a reliable engine – silent, powerful, and always in motion."*
+> *“Well-built systems are invisible — they scale quietly and fail gracefully.”*
 
 ---
 
 ## 🌍 Find Me Around the Web
 
-- 📖 Sharing thoughts, ideas, and tech deep dives on [**my personal blog**](https://mustafabaser.net)
-- ✍️ Writing technical articles on [**Medium**](https://mustafakbaser.medium.com/)
-- 🔗 Let's connect on [**LinkedIn**](https://linkedin.com/in/mustafabaser)
-- 🐦 Tweeting code, insights, and dev humor on [**X (Twitter)**](https://x.com/mustafakbaser)
+- 📖 Personal blog & technical notes: [mustafabaser.net](https://mustafabaser.net)
+- ✍️ Technical writing: [Medium / mustafakbaser](https://mustafakbaser.medium.com/)
+- 🔗 Professional network: [LinkedIn / mustafabaser](https://linkedin.com/in/mustafabaser)
+- 🐦 Tech, code, and opinions: [**X (Twitter)**](https://x.com/mustafakbaser)
 
 ---
-
-## 🧰 My Tech Toolbox
-
-### 🧰 Tech Stack & Expertise
+## 🧰 Tech Stack & Expertise
 
 <details>
-<summary><strong>💻 Languages & Backend Frameworks</strong></summary>
+<summary><strong>💻 Languages & Core Development</strong></summary>
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java (8–17), Kotlin, Python, C#, Golang  
-- **Node.js:** Express, NestJS, Fastify, NextJS  
-- **Java & .NET:** Spring Boot (MVC, Security), .NET Core, ASP.NET  
-- **Python:** Django, Flask  
+- JavaScript (ES6+), TypeScript  
+- Java (8–17), Kotlin  
+- Python, C#, Golang  
 
 </details>
 
 <details>
-<summary><strong>🎨 Front-End & UI Development</strong></summary>
+<summary><strong>🧠 Backend Engineering</strong></summary>
 
-- React.js, Next.js, HTML5, CSS3, Bootstrap  
-- Thymeleaf, JSP, jQuery  
-- JSON, XML  
-
-</details>
-
-<details>
-<summary><strong>🗄️ Databases & Data Technologies</strong></summary>
-
-- **Relational:** PostgreSQL, MySQL, MS SQL Server, Oracle  
-- **NoSQL:** MongoDB, Firebase Realtime DB, Redis  
-- **Cloud Databases:** Firebase, AWS RDS  
+- Node.js: NestJS, Express, Fastify, Next.js  
+- Java: Spring Boot (MVC, Security)  
+- .NET: ASP.NET Core  
+- Python: Django, Flask  
+- RESTful API design, OpenAPI / Swagger  
 
 </details>
 
 <details>
-<summary><strong>🔗 ORM & API Design</strong></summary>
+<summary><strong>🎨 Frontend Development</strong></summary>
 
-- **ORMs:** TypeORM, Prisma, Hibernate, JPA, JDBC  
-- **API Design:** RESTful API, JAX-RS  
-- **Docs:** Swagger / OpenAPI  
+- React.js, Next.js  
+- HTML5, CSS3, Bootstrap  
+- Server-side rendering & SPA architectures  
 
 </details>
 
 <details>
-<summary><strong>🧪 Testing & QA</strong></summary>
+<summary><strong>🗄️ Databases & Caching</strong></summary>
+
+- PostgreSQL, MySQL, MS SQL Server, Oracle  
+- MongoDB, Redis, Firebase Realtime DB  
+- Query optimization & data modeling  
+
+</details>
+
+<details>
+<summary><strong>🔗 ORM & Data Access</strong></summary>
+
+- TypeORM, Prisma  
+- Hibernate, JPA, JDBC  
+
+</details>
+
+<details>
+<summary><strong>🧪 Testing & Code Quality</strong></summary>
 
 - JUnit, Mockito, Jest, Pytest  
-- Unit & Integration Testing, TDD  
-- Code Review Practices  
+- Unit & integration testing  
+- Code reviews, refactoring, TDD mindset  
 
 </details>
 
 <details>
 <summary><strong>☁️ Cloud & DevOps</strong></summary>
 
-- **Platforms:** AWS (EC2, S3, IAM, Lambda), Firebase, Netlify, Heroku  
-- **Tools:** Docker, GitHub Actions, CI/CD Pipelines  
-- **Serverless:** AWS Lambda, Firebase Functions  
+- AWS (EC2, S3, IAM, Lambda, RDS)  
+- Docker, CI/CD (GitHub Actions)  
+- Serverless architectures  
+- Firebase, Netlify, Heroku  
 
 </details>
 
 <details>
-<summary><strong>📲 Mobile App Development</strong></summary>
+<summary><strong>📱 Mobile Development</strong></summary>
 
-- Android Native (Java, Kotlin), Jetpack Compose, MVVM  
-- Retrofit, App publishing (Google Play)  
+- Android (Java, Kotlin)  
+- Jetpack Compose, MVVM  
+- Play Store publishing & maintenance  
 
 </details>
 
 <details>
-<summary><strong>🧠 Architecture & Methodologies</strong></summary>
+<summary><strong>🏗️ Architecture & Process</strong></summary>
 
-- Domain-Driven Design (DDD), Clean Architecture  
-- Modular Monolith & Microservices  
-- Agile, Scrum, Jira, Confluence  
+- Clean Architecture, DDD  
+- Modular Monoliths & Microservices  
+- Agile / Scrum, Jira, Confluence  
 - Git (GitHub, Bitbucket, SVN)  
 
 </details>
 
-<details>
-<summary><strong>📦 CRM & CMS</strong></summary>
-
-- Salesforce (B2C/B2B), Pardot, Salsify, Contentful  
-
-</details>
-
-> Constantly learning. Always shipping. Never satisfied with "just works."
-
 ---
 
-## 📢 Let's Build Together
+## 📢 What I Bring to the Table
 
-I love building backend systems that **scale, recover, and perform** under pressure.  
-Whether it’s architecting new features or improving legacy systems, I bring clarity, precision, and passion to every line of code.
+- End-to-end ownership of features and systems  
+- Strong architectural decision-making  
+- Performance, reliability, and scalability focus  
+- Clear communication with technical and non-technical stakeholders  
 
 👉 **Open to collaboration, freelance projects, and meaningful conversations.**
 
