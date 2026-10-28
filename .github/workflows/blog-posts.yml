@@ -1,0 +1,30 @@
+name: Refresh blog posts
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-posts
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://mustafabaser.net/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "UTC:mmm yyyy"
+          tag_post_pre_newline: true
+          commit_message: "docs(readme): refresh recent blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
